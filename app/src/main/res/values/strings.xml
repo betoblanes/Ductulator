@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ductula-tor</string>
+    <string-array name="array">
+        <item>Rectangular duct</item>
+        <item>Circular duct</item>
+    </string-array>
+</resources>
